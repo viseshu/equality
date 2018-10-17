@@ -1,0 +1,32 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Equality Empowerment
+email: equalityempowerment@gmail.com
+description: Shape up your career with us.
+baseurl: "equalityempowerment.org" #"/phantom-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Logo settings
+logo-image-url: images/equality_logo.jpg
+font-awesome-icon-logo: 
+
+# Social settings
+#github_username: andrewbanchich
+twitter_username: equalityempowerment
+facebook_URL: equalityempowerment
+#instagram_username: andrewbanchich
+#ribbble_username: andrewbanchich
+#500px_username: equality
+phone: 555-5555
+
+# Build settings
+markdown: kramdown
+
+# Layout settings
+home-link-in-menu: yes
